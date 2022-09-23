@@ -37,7 +37,7 @@ nav a:hover {
     margin-left: 10%;
 }
 
-. card a {
+.card a {
     text-align: center;
 }
 
@@ -46,6 +46,6 @@ nav a:hover {
     height: 180px;
 }
 
-h2 {
+nav h2 {
     text-align: center;
 }
